@@ -1,56 +1,19 @@
-# Mutual Fund Analytics Platform
+# Bluestock Mutual Fund Analytics Capstone Project
 
-## Bluestock Fintech Capstone Project
+## Project Overview
 
-### Project Overview
+This project analyzes Mutual Fund industry data using Python, SQL, Power BI, and Financial Analytics techniques.
 
-This project builds a complete Mutual Fund Analytics Platform using AMFI India datasets and mfapi.in NAV data.
+The project covers:
 
-The platform includes:
-
-* Data ingestion and ETL pipeline
-* Data quality validation
-* SQLite database integration
+* Data Cleaning
 * Exploratory Data Analysis (EDA)
-* Risk and performance analytics
-* Interactive dashboard development
-* Benchmark comparison against Nifty indices
+* Fund Performance Analytics
+* Advanced Risk Analytics
+* Power BI Dashboard Development
 
-### Tech Stack
+The objective is to generate actionable insights on mutual fund performance, investor behavior, SIP trends, risk metrics, and portfolio analytics.
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-* SQLAlchemy
-* SQLite
-* Jupyter Notebook
-* Git & GitHub
-
-### Day 1 Deliverables Completed
-
-* Project folder structure created
-* Dependencies installed
-* requirements.txt generated
-* Loaded and validated 10 datasets
-* Fund master exploration completed
-* AMFI code validation completed
-* Data quality summary generated
-* Live NAV fetch script created
-* Git repository initialized
-
-### Folder Structure
-
-bluestock_mf_capstone/
-
-* data/raw
-* data/processed
-* notebooks
-* scripts
-* sql
-* dashboard
 * reports
 
 ### Author
